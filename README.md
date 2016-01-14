@@ -1,0 +1,2 @@
+# LearnSomethingInteresting
+ for learning purpose
