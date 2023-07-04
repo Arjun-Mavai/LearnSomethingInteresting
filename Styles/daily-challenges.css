@@ -1,0 +1,89 @@
+h1 {
+
+    
+ 
+color : rgb    a(14, 14, 37, 0.36);   
+font-family: 'Fira Sans';
+font-size: 48px;
+background-color : red;
+border-radius : 8px;
+
+}
+
+
+
+p {
+
+ 
+color: blue;
+font family :'Oswald';
+font-size: 25px ;
+
+
+}
+
+
+#todays-challenge {
+    color:red;
+    font-size: 5rem;
+    font family : 'Fira Sans';
+
+
+}
+
+a {
+    color: rgb(167, 56, 56);
+    text-decoration: none;
+    font-weight : bold;
+
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+img {
+
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 100px;
+    
+}
+
+body {
+    text-align : center;
+    color : bisque;
+
+    background-color: white;
+    margin : 50px;
+
+
+}
+
+.intro {
+    a:visited { color : grey};
+}
+
+.check {
+    a:visited { color : grey};
+}
+
+ol {
+    list-style : none;
+    background-color : red;
+    border-radius : 8px;
+
+
+}
+
+ul {
+    margin : 20px;
+    color : white;
+    background-color : red;
+    border-radius : 8px;
+
+    list-style : none;
+}
+

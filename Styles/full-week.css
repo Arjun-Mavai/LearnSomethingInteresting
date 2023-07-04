@@ -1,0 +1,77 @@
+body { 
+    background-color: bisque;
+    text-align: center;
+    font-size : 24px;
+}
+
+
+p {
+    background-color: green;
+    font-family: 'Oswald';
+    border-radius : 4px;
+     
+
+
+}
+
+.neo {
+    background-color : orange;
+ color : white;
+ border-radius : 20px;
+ padding : 16px;
+ margin : 32px auto 0 auto;
+ width : 500px;
+
+  
+}
+
+
+h1 {
+ background-color : green;
+ color : white;
+ border-radius : 4px;
+
+    text-align: center; 
+    padding: 24px; 
+    border: 12px solid yellow;
+   }
+
+
+   #Hello {
+    font-family: 'Fira Sans';
+   }
+
+
+
+a {
+
+    font-family: 'Fira Sans' sans-serif;
+    color: rgb(5, 14, 14);
+    text-decoration: none;
+    background-color : yellow;
+    color : red;
+   }
+
+a:hover {
+    
+    text-decoration: underline;
+
+       }
+
+
+
+       li {
+        list-style : none;
+        background-color : green;
+        color : white;
+        border-radius : 6px;
+        margin : 32px auto 0 auto;
+        
+        padding : 6px;
+        text-align : center;
+         
+        height : 150px;
+        width : 500px;
+        
+
+       }
