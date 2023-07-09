@@ -87,3 +87,37 @@ ul {
     list-style : none;
 }
 
+#first {
+    height : 300px;
+    width : 300px;
+    margin : 50px;
+     background-color : bisque;
+     color : black;
+      border-radius : 150%;
+      
+
+
+}
+#second {
+    height : 200px;
+    width : 200px;
+    margin : 50px;
+     background-color : yellow;
+     color : black;
+     border-radius : 50%
+     
+     
+     
+
+}
+
+#third {
+    height : 200px;
+    width : 200px;
+    margin : 50px;
+     background-color : pink;
+     color : black
+     border-radius : 100%;
+     
+
+}
